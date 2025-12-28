@@ -1,4 +1,4 @@
-# qutebrowser-sync
+# Qutebrowser Sync
 
 Bidirectional sync for [qutebrowser](https://github.com/qutebrowser/qutebrowser) bookmarks, quickmarks, and browsing history across multiple machines.
 
